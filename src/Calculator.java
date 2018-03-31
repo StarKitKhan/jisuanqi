@@ -228,7 +228,7 @@ public class Calculator extends JFrame implements ActionListener {
 			// 加法运算
 			resultNum += getNumberFromText();
 		} else if (operator.equals("-")) {
-			// 减法运算
+			
 			resultNum -= getNumberFromText();
 		} else if (operator.equals("*")) {
 			// 乘法运算
